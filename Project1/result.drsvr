@@ -1,0 +1,84 @@
+
+***************************************
+TestBench with n = 64 has been started!
+dgmm0: runTime = 0.004829 s 	 4828619ns	number of FloatingPoint Operations = 524288	GFLOPS = 0.108579
+dgmm1: runTime = 0.003197 s 	 3196870ns	number of FloatingPoint Operations = 524288	GFLOPS = 0.164000
+dgmm2: runTime = 0.001171 s 	 1171397ns	number of FloatingPoint Operations = 524288	GFLOPS = 0.447575
+dgmm3: runTime = 0.000929 s 	 929023ns	number of FloatingPoint Operations = 524288	GFLOPS = 0.564343
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************
+
+***************************************
+TestBench with n = 128 has been started!
+dgmm0: runTime = 0.041929 s 	 41929031ns	number of FloatingPoint Operations = 4194304	GFLOPS = 0.100033
+dgmm1: runTime = 0.026883 s 	 26882763ns	number of FloatingPoint Operations = 4194304	GFLOPS = 0.156022
+dgmm2: runTime = 0.010782 s 	 10781885ns	number of FloatingPoint Operations = 4194304	GFLOPS = 0.389014
+dgmm3: runTime = 0.007483 s 	 7482739ns	number of FloatingPoint Operations = 4194304	GFLOPS = 0.560531
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************
+
+***************************************
+TestBench with n = 256 has been started!
+dgmm0: runTime = 0.318891 s 	 318891109ns	number of FloatingPoint Operations = 33554432	GFLOPS = 0.105222
+dgmm1: runTime = 0.186554 s 	 186553606ns	number of FloatingPoint Operations = 33554432	GFLOPS = 0.179865
+dgmm2: runTime = 0.082551 s 	 82550791ns	number of FloatingPoint Operations = 33554432	GFLOPS = 0.406470
+dgmm3: runTime = 0.053506 s 	 53506304ns	number of FloatingPoint Operations = 33554432	GFLOPS = 0.627112
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************
+
+***************************************
+TestBench with n = 512 has been started!
+dgmm0: runTime = 2.876068 s 	 2876068492ns	number of FloatingPoint Operations = 268435456	GFLOPS = 0.093334
+dgmm1: runTime = 2.088251 s 	 2088250576ns	number of FloatingPoint Operations = 268435456	GFLOPS = 0.128546
+dgmm2: runTime = 0.836630 s 	 836629867ns	number of FloatingPoint Operations = 268435456	GFLOPS = 0.320853
+dgmm3: runTime = 0.584746 s 	 584746331ns	number of FloatingPoint Operations = 268435456	GFLOPS = 0.459063
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************
+
+***************************************
+TestBench with n = 1024 has been started!
+dgmm0: runTime = 57.741692 s 	 57741691972ns	number of FloatingPoint Operations = 2147483648	GFLOPS = 0.037191
+dgmm1: runTime = 41.604436 s 	 41604436258ns	number of FloatingPoint Operations = 2147483648	GFLOPS = 0.051617
+dgmm2: runTime = 18.487680 s 	 18487679822ns	number of FloatingPoint Operations = 2147483648	GFLOPS = 0.116158
+dgmm3: runTime = 12.814850 s 	 12814850119ns	number of FloatingPoint Operations = 2147483648	GFLOPS = 0.167578
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************
+
+***************************************
+TestBench with n = 2048 has been started!
+dgmm0: runTime = 517.113316 s 	 517113316415ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.033223
+dgmm1: runTime = 378.567966 s 	 378567966000ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.045381
+dgmm2: runTime = 157.930397 s 	 157930397237ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.108781
+dgmm3: runTime = 121.283358 s 	 121283357800ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.141651
+Maximum Difference for Experiment PART1 : 0.000000
+Maximum Difference for Experiment PART2 : 0.000000
+Maximum Difference for Experiment PART3 : 0.000000
+Maximum Difference 2 for Experiment PART1 : 0.000000
+Maximum Difference 2 for Experiment PART2 : 0.000000
+Maximum Difference 2 for Experiment PART3 : 0.000000
+***************************************

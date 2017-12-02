@@ -1,0 +1,6 @@
+#!/bin/sh
+#PBS -l nodes=1:ppn=1
+
+cd $PBS_O_WORKDIR
+
+./multSimple 2048 >> result_Simple_2048.drsvr

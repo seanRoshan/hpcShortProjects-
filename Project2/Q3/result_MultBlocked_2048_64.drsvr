@@ -1,0 +1,19 @@
+BlockSize: 64
+MatrixSize: 2048
+
+******************************************
+TEST ijkBlocked: runTime = 87.671870 s 	 87671870453 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.195956
+TEST jikBlocked: runTime = 89.937711 s 	 89937711449 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.191020
+TEST ikjBlocked: runTime = 85.802558 s 	 85802558490 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.200226
+TEST kijBlocked: runTime = 88.773439 s 	 88773438585 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.193525
+TEST jkiBlocked: runTime = 128.479362 s 	 128479361900 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.133717
+TEST kjiBlocked: runTime = 120.441258 s 	 120441257954 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.142641
+
+******************************************
+Maximum Difference 2 for Experiment jikBlocked : 0.000000
+Maximum Difference 2 for Experiment ikjBlocked : 0.000000
+Maximum Difference 2 for Experiment kijBlocked : 0.000000
+Maximum Difference 2 for Experiment jkiBlocked : 0.000000
+Maximum Difference 2 for Experiment kjiBlocked : 0.000000
+
+******************************************

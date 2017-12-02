@@ -1,0 +1,10 @@
+#!/bin/sh
+#PBS -l nodes=1:ppn=1
+
+cd $PBS_O_WORKDIR
+
+./multBlocked 2048 16 >> result_Blocked_2048_32.drsvr
+./multBlocked 2048 64 >> result_Blocked_2048_64.drsvr
+./multBlocked 2048 128 >> result_Blocked_2048_128.drsvr
+./multBlocked 2048 256 >> result_Blocked_2048_256.drsvr
+./multBlocked 2048 512 >> result_Blocked_2048_512.drsvr

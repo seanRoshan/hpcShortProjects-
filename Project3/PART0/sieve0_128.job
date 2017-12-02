@@ -1,0 +1,16 @@
+#!/bin/sh
+#PBS -l nodes=4:ppn=32,walltime=100:00:00
+#PBS -N PART0_10p10_128
+
+module purge
+module load mvapich2-1.9a2/gnu-4.6.2
+module load gcc-4.6.2   
+
+cd $PBS_O_WORKDIR
+
+mpirun ./sieve0 10000000000 >> PART0_10p10_128.drsvr
+mpirun ./sieve0 10000000000 >> PART0_10p10_128.drsvr
+mpirun ./sieve0 10000000000 >> PART0_10p10_128.drsvr
+mpirun ./sieve0 10000000000 >> PART0_10p10_128.drsvr
+mpirun ./sieve0 10000000000 >> PART0_10p10_128.drsvr
+

@@ -1,0 +1,23 @@
+MatrixSize: 2048
+TEST ijkSimple: runTime = 320.962257 s 	 320962257392 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.053526
+TEST jikSimple: runTime = 388.784778 s 	 388784778442 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.044189
+TEST ikjSimple: runTime = 119.607120 s 	 119607120458 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.143636
+TEST kijSimple: runTime = 116.056464 s 	 116056463926 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.148030
+TEST jkiSimple: runTime = 604.758425 s 	 604758424860 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.028408
+TEST kjiSimple: runTime = 638.386735 s 	 638386734696 ns	number of FloatingPoint Operations = 17179869184	GFLOPS = 0.026911
+
+******************************************
+Maximum Difference for Experiment jikSimple : 0.000000
+Maximum Difference for Experiment ikjSimple : 0.000000
+Maximum Difference for Experiment kijSimple : 0.000000
+Maximum Difference for Experiment jkiSimple : 0.000000
+Maximum Difference for Experiment kjiSimple : 0.000000
+
+******************************************
+Maximum Difference 2 for Experiment jikSimple : 0.000000
+Maximum Difference 2 for Experiment ikjSimple : 0.000000
+Maximum Difference 2 for Experiment kijSimple : 0.000000
+Maximum Difference 2 for Experiment jkiSimple : 0.000000
+Maximum Difference 2 for Experiment kjiSimple : 0.000000
+
+******************************************
