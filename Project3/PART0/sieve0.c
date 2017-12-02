@@ -1,10 +1,9 @@
-/*
- *   Sieve of Eratosthenes
- *
- *   Programmed by Michael J. Quinn
- *
- *   Last modification: 7 September 2001
- */
+#####################################################################
+##               CS211 - High Performance Computing                ##
+#                   SHAHRIYAR VALIELAHIROSHAN                       #
+#                  SVALI003@UCR.EDU [861241935]                     #
+##                          Project 3                              ##
+#####################################################################
 
 #include "mpi.h"
 #include <math.h>
